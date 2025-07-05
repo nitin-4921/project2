@@ -1,3 +1,4 @@
-# new project 
+# New project
 
-This project was created from local system
+This project was created from local system 
+My name is Nitin kumar
